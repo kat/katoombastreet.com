@@ -2,11 +2,43 @@
 /* ! Layout for desktop version   */
 /* ============================== */
 
-	body {
-	        background: url(../Katoombast.png);
+h1, h2 {
+    font-family: Arial, "MS Trebuchet", sans-serif;;
+    color: rgba(255,160,20,1);
+  }
+p {
+    font-family: Arial, "MS Trebuchet", sans-serif;
+  }
+
+a {
+    color: #f82;
+    text-decoration: none;
+  }	body {
+	        background: url(../Katoombast_v2.jpg);
 	        background-size: 100%;		
 	}
+	.contact a:hover {
+	    background-color: inherit;
+	    color: inherit;
+	  }
 	
+	div.row div {
+      color: #fff;
+      background-color: rgba(90,140,230,0.7);
+      margin-top: 1em;
+  }
+  
+p, h1, h2{
+    padding-left: 8px;
+    padding-right: 8px;
+  }
+
+
+  h1, h2 {
+    padding-top: 4px;
+    line-height: 1em;
+  }
+ 
 
 /* ============================= */
 /* ! Layout for mobile version   */
