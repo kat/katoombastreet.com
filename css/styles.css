@@ -14,7 +14,7 @@ a {
     color: #f82;
     text-decoration: none;
   }	body {
-	        background: url(../Katoombast_v2.jpg);
+	        background: url(../KatoombaSt_v2.jpg);
 	        background-size: 100%;		
 	}
 	.contact a:hover {
@@ -24,7 +24,7 @@ a {
 	
 	div.row div {
       color: #fff;
-      background-color: rgba(90,140,230,0.7);
+      background-color: rgba(90,140,230,0.9);
       margin-top: 1em;
   }
   
